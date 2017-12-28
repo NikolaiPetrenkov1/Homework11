@@ -1,0 +1,2 @@
+C:\Users\ПетренковН\source\repos\Homework11\Homework11\obj\Debug\Homework11.csprojResolveAssemblyReference.cache
+C:\Users\ПетренковН\source\repos\Homework11\Homework11\obj\Debug\Homework11.csproj.CoreCompileInputs.cache
